@@ -1,0 +1,18 @@
+14/7/
+https://medium.com/@armando_amador/how-to-make-http-requests-using-fetch-api-and-promises-b0ca7370a444
+https://scotch.io/tutorials/how-to-use-the-javascript-fetch-api-to-get-data
+https://developers.google.com/web/updates/2015/03/introduction-to-fetch
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/reduce
+https://www.freecodecamp.org/news/reduce-f47a7da511a9/
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number/toLocaleString
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/split
+
+
+ALC challenge
+2/4, 3/4, 4/4
+
+Learned a bit more about fetch() api and deconstructuring
+
+15/7
+https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch
+https://www.freecodecamp.org/news/a-practical-es6-guide-on-how-to-perform-http-requests-using-the-fetch-api-594c3d91a547/

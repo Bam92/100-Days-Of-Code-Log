@@ -14,6 +14,46 @@ Commitment: I will code daily for the next 100 days.
 
 # Code Log
 
+## 3. PayCard Challenge & ADC
+### Day 3: July 15, 2019 - Monday
+#### Today's Project(s):
+#### Progress:
+#### Link to work:
+#### Thoughts
+
+## 4. PayCard Challenge & ADC
+### Day 4: July 16, 2019 - Tuesday
+#### Today's Project(s):
+* Setup tools for creating API endpoints for Way Farer Project
+* Done with PayCard Challenge
+#### Progress:
+* Install ```ESLint``` and ```Mocha``` using ```npm```
+* Worked hard to submit ```PayCard``` Challenge on time. And I did submit at 4:30+ am (did not sleep at all!)
+#### Link to work:
+* [Play Card](https://github.com/Bam92/alc4-mws/tree/master/exercises/challenge1)
+* [Luhn algorithm](https://en.wikipedia.org/wiki/Luhn_algorithm)
+
+#### Thoughts
+It was not easy at all.This project gave me the chance to learn so many things and to practice them. Thank you ALC team.
+
+## 3. PayCard Challenge & ADC
+### Day 3: July 15, 2019 - Monday
+#### Today's Project(s):
+* ALC 4.0 Phase 1 Challenge
+* Andela Dev Challenge
+#### Progress:
+* I was stuck on some functions in ALC project. Try to refactor and get help from slack group.
+* Refactor my UI for the project Way Farer
+
+#### Link to work:
+* [My ALC 4.0 log](https://github.com/Bam92/alc4-mws/tree/master/exercises/challenge1)
+* [Way Farer](https://github.com/Bam92/wayFarer)
+* [Using fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch)
+* [ES6 - perform http request with Fetch()](https://www.freecodecamp.org/news/a-practical-es6-guide-on-how-to-perform-http-requests-using-the-fetch-api-594c3d91a547/)
+
+#### Thoughts
+Happy to be working on challenging projects and getting hint and help from pears. I appriciate this experience that I cannot have in my local city.
+
 ## 2. PayCard Challenge
 ### Day 2: July 14, 2019 - Sunday
 #### Today's Project(s):
@@ -39,7 +79,7 @@ Commitment: I will code daily for the next 100 days.
 So glad to be working on this project. It helped me learn so many things and deeply understand some.
 In short, I learned a bit more about fetch() api and deconstructuring
 
-## 1. My Andela developerChallenge()
+## 1. My Andela developerChallenge() (ADC)
 ### Day 1: July 13, 2019 - Saturday
 #### Today's Project(s):
 * Andela Kigali Cycle 9 Challenge
