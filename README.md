@@ -21,6 +21,38 @@ Commitment: I will code daily for the next 100 days.
 #### Link to work:
 #### Thoughts
 
+## 6. Andela Developer Challenge
+### Day 6: July 18, 2019 - Thursday
+#### Today's Project(s):
+* Write user stories on Pivotal Tracker
+* Learn more about API building and get inspiration
+#### Progress:
+I wrote all necessary user stories for my project on Pivotal Tracker
+#### Links to work:
+* [My Pivotal Tracker](https://www.pivotaltracker.com/n/projects/2361805)
+* [Andela SendIT by oesukam](https://github.com/oesukam/andela-sendit)
+* [RestFul API with node/express](https://medium.com/@purposenigeria/build-a-restful-api-with-node-js-and-express-js-d7e59c7a3dfb)
+* [RestFul API endpoint in node/express](https://scotch.io/@gilles/get-started-with-creating-a-restful-api-endpoints-in-nodejs-and-expressjs)
+#### Thoughts
+After reading so much and configuring tools I am now ready to start my second part. The work flow will be like this: write unit-test - write code to pass it - refactor (TDD approach). Follow me the next day!
+
+## 5. Andela Developer Challenge
+### Day 5: July 17, 2019 - Wednesday
+#### Today's Project(s):
+* Continue with the second part of my Andela developerChallenge()
+* Learn a bit more about responsive web design
+#### Progress:
+Style the navbar of my Way Farer Project
+#### Link to work:
+* [Way Farer Repo](https://github.com/Bam92/wayFarer)
+* [Airbnb JS Style](https://github.com/airbnb/javascript)
+* [VS Code, ESLint and Airbnb](https://travishorn.com/setting-up-eslint-on-vs-code-with-airbnb-javascript-style-guide-6eb78a535ba6)
+* [RestFul API best practices](https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
+* [Responsive tricks](https://medium.com/@mchisti/two-css-tricks-thatll-make-your-site-fully-responsive-5f9efba4015e)
+* [Single vs Multiple CSS files](https://stackoverflow.com/questions/8660241/single-vs-multiple-stylesheets-in-responsive-web-design)
+#### Thoughts
+Just happy to have a new UI design on the branch ft-home-page-167108349 of Way Farer Project
+
 ## 4. PayCard Challenge & ADC
 ### Day 4: July 16, 2019 - Tuesday
 #### Today's Project(s):
