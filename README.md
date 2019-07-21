@@ -21,6 +21,18 @@ Commitment: I will code daily for the next 100 days.
 #### Link to work:
 #### Thoughts
 
+## 9. Andela Developer Challenge
+### Day 9: July 21, 2019 - Sunday
+#### Today's Project(s):
+Setup node/express for Way Farer
+#### Progress:
+2 new features created: ft-api-signup-{trackerID} and ft-api-signup-{trackerID}
+#### Link to work:
+* [wayFarer repo](https://github.com/Bam92/wayFarer)
+#### Thoughts
+Happy to start building my API endpoints and hope to finish on time.
+
+
 ## 8. Build A RESTful Api With Node.js And Express.Js
 ### Day 8: July 20, 2019 - Saturday
 #### Today's Project(s):
