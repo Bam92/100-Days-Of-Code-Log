@@ -21,6 +21,14 @@ Commitment: I will code daily for the next 100 days.
 #### Link to work:
 #### Thoughts
 
+
+## 7.  Andela Developer Challenge
+### Day 7: July 19, 2019 - Friday
+#### Today's Project(s):
+#### Progress:
+#### Link to work:
+#### Thoughts
+
 ## 6. Andela Developer Challenge
 ### Day 6: July 18, 2019 - Thursday
 #### Today's Project(s):
