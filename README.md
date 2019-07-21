@@ -21,13 +21,28 @@ Commitment: I will code daily for the next 100 days.
 #### Link to work:
 #### Thoughts
 
+## 8. Build A RESTful Api With Node.js And Express.Js
+### Day 8: July 20, 2019 - Saturday
+#### Today's Project(s):
+* Just practice the tuto of day 7 and continue reading
+#### Progress:
+I did write get and post API and read all about CRUD API
+#### Link to work:
+* [Build RestFull API - 1](https://medium.com/@purposenigeria/build-a-restful-api-with-node-js-and-express-js-d7e59c7a3dfb)
+* [Build RestFull API - 2](https://medium.com/@purposenigeria/build-a-restful-api-with-node-js-and-express-js-part-two-3d7a82b8e00)
+#### Thoughts
+A bit of code and continue with my reading. I'll be implementing this in my ADC project - wayFarer
 
-## 7.  Andela Developer Challenge
+## 7.  Build A RESTful Api With Node.js And Express.Js
 ### Day 7: July 19, 2019 - Friday
 #### Today's Project(s):
+* Read tuto on Node and express
 #### Progress:
+Get better understanding of how to build API with node/express
 #### Link to work:
+* [Build RestFull API](https://medium.com/@purposenigeria/build-a-restful-api-with-node-js-and-express-js-d7e59c7a3dfb)
 #### Thoughts
+I did not code at all today, but read code. The coding session is tomorrow. Practice makes perfect they say.
 
 ## 6. Andela Developer Challenge
 ### Day 6: July 18, 2019 - Thursday

@@ -16,3 +16,10 @@ Learned a bit more about fetch() api and deconstructuring
 15/7
 https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch
 https://www.freecodecamp.org/news/a-practical-es6-guide-on-how-to-perform-http-requests-using-the-fetch-api-594c3d91a547/
+
+17/7
+https://github.com/airbnb/javascript
+https://travishorn.com/setting-up-eslint-on-vs-code-with-airbnb-javascript-style-guide-6eb78a535ba6
+https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api
+https://medium.com/@mchisti/two-css-tricks-thatll-make-your-site-fully-responsive-5f9efba4015e
+https://stackoverflow.com/questions/8660241/single-vs-multiple-stylesheets-in-responsive-web-design
