@@ -23,3 +23,10 @@ https://travishorn.com/setting-up-eslint-on-vs-code-with-airbnb-javascript-style
 https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api
 https://medium.com/@mchisti/two-css-tricks-thatll-make-your-site-fully-responsive-5f9efba4015e
 https://stackoverflow.com/questions/8660241/single-vs-multiple-stylesheets-in-responsive-web-design
+
+
+22
+ft-api-signup
+
+23
+ft-api-signin

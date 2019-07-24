@@ -21,6 +21,39 @@ Commitment: I will code daily for the next 100 days.
 #### Link to work:
 #### Thoughts
 
+## 12. Andela Developer Challenge - server
+### Day 12: July 24, 2019 - Wenesday
+#### Today's Project(s):
+Merge sign in and sign up APIs and refactor
+#### Progress:
+I adopted MVC structure
+#### Link to work:
+* [wayFarer repo](https://github.com/Bam92/wayFarer)
+#### Thoughts
+It took me too much time to change the structure of my project. But I did go ahead.
+
+## 11. Andela Developer Challenge - server
+### Day 11: July 23, 2019 - Tuesday
+#### Today's Project(s):
+Work on sign in API
+#### Progress:
+Write some code to pass some sign up tests
+#### Link to work:
+* [wayFarer repo](https://github.com/Bam92/wayFarer)
+#### Thoughts
+Little by little TDD will be very natural in my dev project.
+
+## 10. Andela Developer Challenge
+### Day 10: July 22, 2019 - Monday
+#### Today's Project(s):
+Work on sign up API
+#### Progress:
+Write some code to pass some sign up tests
+#### Link to work:
+* [wayFarer repo](https://github.com/Bam92/wayFarer)
+#### Thoughts
+Following TDD is not still easy as you think. It's very easy to write code that perform actions than writing unit tests. But doing so is best practice and you have the chance to build great apps.
+
 ## 9. Andela Developer Challenge
 ### Day 9: July 21, 2019 - Sunday
 #### Today's Project(s):
@@ -31,7 +64,6 @@ Setup node/express for Way Farer
 * [wayFarer repo](https://github.com/Bam92/wayFarer)
 #### Thoughts
 Happy to start building my API endpoints and hope to finish on time.
-
 
 ## 8. Build A RESTful Api With Node.js And Express.Js
 ### Day 8: July 20, 2019 - Saturday
