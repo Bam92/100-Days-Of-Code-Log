@@ -21,6 +21,17 @@ Commitment: I will code daily for the next 100 days.
 #### Link to work:
 #### Thoughts
 
+## 13. Andela Developer Challenge - UI
+### Day 13: July 25, 2019 - Thursday
+#### Today's Project(s):
+Fix bugs and refactor the UI of my project
+#### Progress:
+The home page branch is working just fine with actual implemented features
+#### Link to work:
+* [wayFarer repo](https://github.com/Bam92/wayFarer)
+#### Thoughts
+Hmmmmm! Pure CSS and HTML ...and JS (too) take me more time to build things when frameworks and libraries just let me go ahead quickly.
+
 ## 12. Andela Developer Challenge - server
 ### Day 12: July 24, 2019 - Wenesday
 #### Today's Project(s):
