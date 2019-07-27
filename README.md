@@ -14,12 +14,38 @@ Commitment: I will code daily for the next 100 days.
 
 # Code Log
 
-## 3. PayCard Challenge & ADC
-### Day 3: July 15, 2019 - Monday
+## 14. Andela developper 
+### Day 14: July 27, 2019 - Saturday
 #### Today's Project(s):
+I did not code at all. I spend my time learninggit/reading on TDD approch
 #### Progress:
+These
 #### Link to work:
+https://blog.risingstack.com/getting-node-js-testing-and-tdd-right-node-js-at-scale/
+https://medium.com/@artem.mirchenko/node-js-tdd-complete-guide-45c69fb1539e
+https://www.codementor.io/davidtang/unit-testing-and-tdd-in-node-js-part-1-8t714s877
 #### Thoughts
+## 13. Andela Developer Challenge - UI
+### Day 13: July 25, 2019 - Thursday
+#### Today's Project(s):
+Fix bugs and refactor the UI of my project
+#### Progress:
+The home page branch is working just fine with actual implemented features
+#### Link to work:
+* [wayFarer repo](https://github.com/Bam92/wayFarer)
+#### Thoughts
+Hmmmmm! Pure CSS and HTML ...and JS (too) take me more time to build things when frameworks and libraries just let me go ahead quickly.
+
+## 14. Andela Developer Challenge - UI
+### Day 14: July 26, 2019 - Friday
+#### Today's Project(s):
+Implement a popover menu for a connected user
+#### Progress:
+The popover has been done and works properly as in google.com
+#### Link to work:
+* [wayFarer repo](https://github.com/Bam92/wayFarer)
+#### Thoughts
+I did make a good style for the popover menu, thanks for seqrch engine 
 
 ## 13. Andela Developer Challenge - UI
 ### Day 13: July 25, 2019 - Thursday
