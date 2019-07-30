@@ -14,18 +14,27 @@ Commitment: I will code daily for the next 100 days.
 
 # Code Log
 
+## 16. Andela developper Challenge() 
+### Day 16: July 29, 2019 - Monday
+#### Today's Project(s):
+Refactor tripController of wayFar API endpoint
+#### Progress:
+I spend all my time refactoring my code base
+#### Link to work:
+* [wayFarer repo](https://github.com/Bam92/wayFarer)
+#### Thoughts
+It is as if we still need to learn something. Try to work on a project and you'll understand and ... agree with me.
+
 ## 15. Andela developper 
 ### Day 15: July 28, 2019 - Sunday
 #### Today's Project(s):
-I did not code at all. I spend my time learning/reading on TDD approch
+Fix bugs on trip tests
 #### Progress:
-These
+Most of my tests pass (turn green)
 #### Link to work:
-https://blog.risingstack.com/getting-node-js-testing-and-tdd-right-node-js-at-scale/
-https://medium.com/@artem.mirchenko/node-js-tdd-complete-guide-45c69fb1539e
-https://www.codementor.io/davidtang/unit-testing-and-tdd-in-node-js-part-1-8t714s877
+* [wayFarer repo](https://github.com/Bam92/wayFarer)
 #### Thoughts
-TDD is a very good approach that help us build great app
+Happy to apply what I learned yesterday
 
 ## 14. Andela developper 
 ### Day 14: July 27, 2019 - Saturday
