@@ -14,10 +14,10 @@ Commitment: I will code daily for the next 100 days.
 
 # Code Log
 
-## 14. Andela developper 
-### Day 14: July 27, 2019 - Saturday
+## 15. Andela developper 
+### Day 15: July 28, 2019 - Sunday
 #### Today's Project(s):
-I did not code at all. I spend my time learninggit/reading on TDD approch
+I did not code at all. I spend my time learning/reading on TDD approch
 #### Progress:
 These
 #### Link to work:
@@ -25,6 +25,21 @@ https://blog.risingstack.com/getting-node-js-testing-and-tdd-right-node-js-at-sc
 https://medium.com/@artem.mirchenko/node-js-tdd-complete-guide-45c69fb1539e
 https://www.codementor.io/davidtang/unit-testing-and-tdd-in-node-js-part-1-8t714s877
 #### Thoughts
+TDD is a very good approach that help us build great app
+
+## 14. Andela developper 
+### Day 14: July 27, 2019 - Saturday
+#### Today's Project(s):
+I did not code at all today. I spent my time learning/reading on TDD approch
+#### Progress:
+These readings gave some good insights for writing unit tests
+#### Link to work:
+https://blog.risingstack.com/getting-node-js-testing-and-tdd-right-node-js-at-scale/
+https://medium.com/@artem.mirchenko/node-js-tdd-complete-guide-45c69fb1539e
+https://www.codementor.io/davidtang/unit-testing-and-tdd-in-node-js-part-1-8t714s877
+#### Thoughts
+TDD is a very good approach that helps us build great app
+
 ## 13. Andela Developer Challenge - UI
 ### Day 13: July 25, 2019 - Thursday
 #### Today's Project(s):
