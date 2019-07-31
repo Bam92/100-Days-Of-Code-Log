@@ -14,6 +14,33 @@ Commitment: I will code daily for the next 100 days.
 
 # Code Log
 
+## 18. Andela developper Challenge() : jwt and bcrypt 
+### Day 18: July 31, 2019 - Wedsday
+#### Today's Project(s):
+Generate token
+#### Progress:
+
+#### Link to work:
+* https://medium.com/quick-code/handling-authentication-and-authorization-with-node-7f9548fedde8
+* https://medium.com/@elijahvalentinetroyabako/securing-node-js-restful-apis-with-json-web-tokens-d0a152a97d2c
+* https://medium.com/dev-bits/a-guide-for-adding-jwt-token-based-authentication-to-your-single-page-nodejs-applications-c403f7cf04f4
+* https://auth0.com/blog/node-js-and-express-tutorial-building-and-securing-restful-apis/
+#### Thoughts
+I am a bit stuck and I can't implement security yet in my app. Most of tuto I find discuss about jwt and bcrypt with db based app
+
+## 17. Andela developper Challenge() 
+### Day 17: July 30, 2019 - Tuesday
+#### Today's Project(s):
+Add continous integration badges to readme
+#### Progress:
+TravisCI and codecoverage bages added
+#### Link to work:
+* [wayFarer repo](https://github.com/Bam92/wayFarer)
+* http://dsernst.com/2015/09/02/node-mocha-travis-istanbul-coveralls-unit-tests-coverage-for-your-open-source-project/
+* https://github.com/nickmerwin/node-coveralls
+#### Thoughts
+My app is becoming more and more modern an professional
+
 ## 16. Andela developper Challenge() 
 ### Day 16: July 29, 2019 - Monday
 #### Today's Project(s):
