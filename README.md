@@ -13,20 +13,32 @@ Commitment: I will code daily for the next 100 days.
 * Get accepted as Andela Developer in Kigali, Rwanda
 
 # Code Log
+## 19. Implement jwt and add badges to readme
+### Day 19: August 1, 2019 - Tuesday
+#### Today's Project(s):
+* Created a branch (feature/ch-jwt-bcrypt-167643220) to test implementation of jwt on my Way Farer project.
+* Added some new badges on my Way Farer readme
+#### Progress:
+Finished with badges and secured 3 of my 4 available routes.
+#### Link to work:
+* [Way Farer Project](https://github.com/Bam92/wayFarer)
+* [jwt example](https://github.com/bradtraversy/node_jwt_example/blob/master/app.js)
+#### Thoughts
+I am a bit stuck and I can't implement security yet in my app. Most of tuto I find discuss about jwt and bcrypt with db based app.
 
-## 18. Andela developper Challenge() : jwt and bcrypt 
+## 18. jwt and bcrypt 
 ### Day 18: July 31, 2019 - Wedsday
 #### Today's Project(s):
-Generate token
+Read a bit about nodejs security
 #### Progress:
-
+Try to get understand of how security works on Node but could not implement yet.
 #### Link to work:
 * https://medium.com/quick-code/handling-authentication-and-authorization-with-node-7f9548fedde8
 * https://medium.com/@elijahvalentinetroyabako/securing-node-js-restful-apis-with-json-web-tokens-d0a152a97d2c
 * https://medium.com/dev-bits/a-guide-for-adding-jwt-token-based-authentication-to-your-single-page-nodejs-applications-c403f7cf04f4
 * https://auth0.com/blog/node-js-and-express-tutorial-building-and-securing-restful-apis/
 #### Thoughts
-I am a bit stuck and I can't implement security yet in my app. Most of tuto I find discuss about jwt and bcrypt with db based app
+I am a bit stuck and I can't implement security yet in my app. Most of tuto I find discuss about jwt and bcrypt with db based app.
 
 ## 17. Andela developper Challenge() 
 ### Day 17: July 30, 2019 - Tuesday
